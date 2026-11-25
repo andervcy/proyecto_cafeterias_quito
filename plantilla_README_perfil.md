@@ -12,6 +12,6 @@
 
 | Proyecto | Pregunta de negocio |
 |---|---|
-| Cafeterías(https://github.com/) |¿Disminuyeron las ventas? |
+| [Cafeterías](https://github.com/) |¿Disminuyeron las ventas? |
 
 *Formándome en la ruta Data Analyst Expert de Ciencia de Datos Ecuador.*
